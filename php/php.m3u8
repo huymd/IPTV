@@ -1,16 +1,3 @@
-#EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="Hong Kong/Macau(香港/澳门)", TVB
-http://live.idc.idcml.cn/123/dl/jade.php?id=jade
-
-J2
-http://live.idc.idcml.cn/j2.php?id=videos
-
-#EXTINF:-1,ipnet_UA
-http://ukr-iptv.com/list.m3u
-#EXTINF:-1,iptv0518
-http://iptvm3u.ru/iptv0518.m3u
-#EXTINF:-1,ukraina-podkola
-http://tele.usite.pro/iptv/ukraina-podkola.net.m3u
-
-http://37.152.135.169:9002/playlist.m3u8
+China:
+http://awebman.com/wiki/cors.html
