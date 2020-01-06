@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0, Fundorado Tv 720P
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8?MWINFO
-#EXTINF:0, Jasmin Channel 720P
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
 #EXTINF:0, Penthohouse (KODI APENAS)
 rtmp://edge1.everyon.tv/etv1sb/%20playpath=phd10927%20swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf%20live=1%20pageUrl=http://www.maxmegatvonlinehd.com/canais-adultos-ao-vivo/penthouse.html?MWINFO
 #EXTINF:182, [COLOR purple][B] BRAZZERS 1 (Adulto +18)[/B][/COLOR]
@@ -1147,18 +1143,6 @@ http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/1937
 http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
 #EXTINF:0, 88
 http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
-#EXTINF:0,Babestation 1
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
-#EXTINF:0,Babestation 2
-http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8
-#EXTINF:0,Babestation 3
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-#EXTINF:0,Babestation 4
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8
-#EXTINF:0,Babestation 5
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8
-#EXTINF:0,Babestation 6
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
 #EXTINF:182,BRAZZERS
 http://static.brazzers.com/scenes/3327/180sec.flv
 #EXTINF:1,BRAZZERS
@@ -1329,10 +1313,6 @@ http://drainmainvein.com/media/videos/mp4/518.mp4
 http://drainmainvein.com/media/videos/mp4/519.mp4
 #EXTINF:1,XXL
 http://drainmainvein.com/media/videos/mp4/520.mp4
-#EXTINF:1,xxx 
-http://188.165.220.116:8081/live2/65/playlist.m3u8
-#EXTINF:1,xxx
-http://188.165.220.116:8081/live/90/playlist.m3u8
 #EXTINF:1,BRAZZERS
 http://static.brazzers.com/scenes/3327/180sec.flv
 #EXTINF:1,BRAZZERS
