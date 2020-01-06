@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/image-africanews.png" group-title="News",Africa News
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/AfricaNews.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="News",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera
@@ -17,7 +17,7 @@ https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
-http://45.143.205.112:1000/play/cnn/index.m3u8
+https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News",Deutsche Welle (English)
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews 
@@ -75,12 +75,15 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="Financial News",MSNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="Financial News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cnbcarabia.com/img/logo.png" group-title="Financial News",CNBC Arabia
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Financial News",CNBC आवाज़
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Financial News",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="Financial News",第一财经
@@ -246,10 +249,10 @@ http://203.154.243.89:1208
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf",ゴルフネットワーク
 http://203.162.235.41:16924
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="Golf",博斯高球1台
-http://ms006.happytv.com.tw/live/VxLytG9xO6nFqubK/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="Golf",博斯高球2台
-http://ms006.happytv.com.tw/live/cv16UT2AvRyOOfbS/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav1-1.png" group-title="Golf",博斯高球1台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_G1.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav2-1.png" group-title="Golf",博斯高球2台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_G2.m3u8
 
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -278,8 +281,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Tennis",Tennis Channel+ 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="Tennis",博斯网球台
-http://ms003.happytv.com.tw/live/DmYDHkXSnL8TqzL9/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav3-1.png" group-title="Tennis",博斯網球
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_T1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="Tennis",博斯魅力網
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
@@ -287,22 +290,18 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Entertainment",AXN
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png group-title="Entertainment",Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/fc/0c/a1/fc0ca1a2ce9b65e40d3981320addacc9.png" group-title="Entertainment",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/509-blue-ant-entertainment-hd.png" group-title="Entertainment",Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Entertainment",Comedy Central
 https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WKMGDT2.us.png" group-title="Entertainment",DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" group-title="Entertainment",FOX 5 New York (WNYW)
-https://gma2.blab.email/fox.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Entertainment",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/723_300.png" group-title="Entertainment",Diva
-http://45.126.83.51/uq2663/h/h11/index2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="Entertainment",E!
-http://210.210.155.35/uq2663/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV
@@ -311,14 +310,18 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Entertainment",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Entertainment",Fashion Box
-http://84.22.33.254/unicast.fashionbox/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="Entertainment",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+
+tvN
 #EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/7c15b157-b50a-4547-877e-6a5ff7aa6bd1.png" group-title="Entertainment",Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Entertainment",Lifetime
-http://203.154.243.31:15002
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="Entertainment",Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="Entertainment",Outdoor Channel Asia
@@ -329,10 +332,12 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="Entertainment",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Entertainment",Superyatch TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TraceSportStars.uk.png" group-title="Entertainment",Trace Sports Stars
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="Entertainment",Vox Africa
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Entertainment",World Fashion TV 
@@ -500,7 +505,9 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="Learning",Animal Planet
-http://84.22.33.254/unicast.animalplanet/index.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="Learning",BBC Earth
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://39.135.36.140:18890/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8428799834696888424&owchid=ystenlive&owsid=1106497909461789280&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7RqKDfJDas7YyDZNJl7HttN1saAiHHRx97PWslNR2vzkU1dWcTZfUtlvjMMZgBZvORGIuGa%2b7fRg7bV0%2fSlWh1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
@@ -514,7 +521,7 @@ http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Learning",Docubox
 http://84.22.33.254/unicast.docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History
-http://84.22.33.254/unicast.historychannel/index.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Learning",English Club
